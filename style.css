@@ -1,0 +1,79 @@
+*{margin: 0; padding: 0}
+header{display: flex;
+justify-content: space-between;
+background-color: darkslategrey;
+}
+
+nav a {
+    padding: 10px 50px 10px 50px;
+    color: white;
+}
+
+nav{
+    display: flex;
+    
+}
+
+.code-content{
+    position: relative;
+}
+
+.body-headers{
+    text-align: center;
+    
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.container-bottom{
+display: block;
+position: absolute;
+bottom: 20px;
+left: 44%;
+}    
+
+.card a {
+    color: black
+}
+
+.card {
+    padding: 100px;
+    text-align: left;
+    border-style: solid;
+    border-width: 5px;
+    display: flex; 
+    flex-direction: row;
+    width: 33%;
+    background-color: aqua;
+    color: white
+    }
+
+#contact{
+    display: block;
+    text-align: center;
+}    
+
+h1{
+    background-color: aqua; 
+    color: darkslategrey; 
+    padding: 10px;
+}
+
+figure{
+    position: relative; 
+    /* background-image: url("https://dummyimage.com/640x360/fff/aaa");  */
+    
+    eight: 300px; background-position: center; 
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+h2{
+    font-size: 50px; font-weight: bold}
+
+.biotitle {
+    border-right: 5px; font-size: medium; font-weight: bold;
+}
