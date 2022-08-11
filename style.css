@@ -19,6 +19,8 @@ text-align: center;
 }
 .code-content{
     position: relative;
+    text-align: center;
+    font-size: large
 }
 
 .body-headers{
